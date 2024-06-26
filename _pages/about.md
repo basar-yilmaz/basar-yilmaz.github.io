@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello, I’m Başar"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-👋 Hello, I’m Başar
 
 💻 I’m a senior computer engineering student at Middle East Technical University in Ankara, Turkey.
 
